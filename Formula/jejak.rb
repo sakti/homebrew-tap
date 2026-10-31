@@ -2,8 +2,8 @@
 class Jejak < Formula
   desc "Desktop viewer for OpenTelemetry traces, metrics and logs"
   homepage "https://github.com/sakti/jejak-release"
-  url "https://github.com/sakti/jejak-release/releases/download/v0.1.0/jejak-v0.1.0-aarch64-apple-darwin.tar.gz"
-  sha256 "f3fb3c5e024815023359ad0ffc4f9d66858952e4d3184e0855e50e78c4b3f5c2"
+  url "https://github.com/sakti/jejak-release/releases/download/v0.2.0/jejak-v0.2.0-aarch64-apple-darwin.tar.gz"
+  sha256 "3d1ea06cd0d82203a0fc60e50b18c84be91acdd824bdee419b0e0dab351f62d7"
   license "Apache-2.0"
 
   depends_on arch: :arm64
